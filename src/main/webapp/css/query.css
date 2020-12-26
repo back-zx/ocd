@@ -1,0 +1,38 @@
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	form{
+        width: 700px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid black;
+    }
+    div{
+        padding: 5px 0;
+    }
+    label{
+        display: inline-block;
+        width: 100px;
+        margin-right: 40px;
+        text-align: right;
+    }
+    span{
+        color: #FF0000;
+        font-size:12px
+    }
+    .inputText{
+        display: inline-block;
+        width: 260px;
+        margin-right: 20px;
+    }
+    .sub,a{
+			text-align:center;
+		}
+	.img{
+		background:url("../images/login.jpg") no-repeat;
+		height: 910px;
+	}
+	
+	
+	
